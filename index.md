@@ -2,4 +2,4 @@
 1. Новый проект
 2. Новый проект
 3.
-[Хуйня] (https://ellieelien.github.io/design/)
+[Хуйня](https://ellieelien.github.io/design/)
